@@ -1,22 +1,7 @@
 [
  {
-   "branch": "cm-11.0",
-   "repository": "android_device_oppo_common",
-   "target_path": "device/oppo/common"
- },
- {
-   "branch": "cm-11.0",
-    "repository": "CyanogenMod/android_device_oppo_apq8064-common",
-   "target_path": "device/oppo/apq8064-common"
- },
- {
-   "branch": "cm-11.0",
-    "repository": "CyanogenMod/android_kernel_oppo_n1",
-   "target_path": "kernel/oppo/n1"
- },
- { 
-   "repository": "TheMuppets/proprietary_vendor_oppo", 
-   "target_path": "vendor/oppo", 
-   "branch": "cm-11.0" 
- } 
+   "repository": "android_device_oppo_apq8064-common",
+   "target_path": "device/oppo/apq8064-common",
+   "branch": "cm-11.0"
+ }
 ]
